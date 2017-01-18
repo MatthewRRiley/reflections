@@ -1,0 +1,9 @@
+What happens when you initialize a git repository?
+
+when you initialize a repository you add a hidden git folder that contain the
+metadata of the changes made to the files.
+
+How is the staging area different than the working directory?
+
+the staging area works as middle ground to provide better control over which
+files are commited together.
