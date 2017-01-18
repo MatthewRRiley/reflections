@@ -7,3 +7,19 @@ How is the staging area different than the working directory?
 
 the staging area works as middle ground to provide better control over which
 files are commited together.
+
+How can you use the staging area to make sure that you have only one commit
+per logical change?
+
+you can use `git diff` and `git diff --staged` to make sure that the alterations
+made for each commit is not to large or small.
+
+What are some situations when branches would be useful to keep history organized?
+
+branches are useful organization tools when you are working to implement another
+feature, but would like to keep a main working version.
+
+How would branches help?
+
+branches help by allowing multiple versions to work, so multiple version can
+exist with little over head work.
